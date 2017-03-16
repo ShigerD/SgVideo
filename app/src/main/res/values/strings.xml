@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SgVideo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- teyes-->
+    <string translatable="false" name="durationformatshort">%2$d:%5$02d</string>
+    <string translatable="false" name="durationformatlong">%1$d:%3$02d:%5$02d</string>
+    <string translatable="false" name="default_time">"--:--"</string>
+    <string translatable="false" name="list_position">"%1$02d. "</string>
+    <string name="videoview_error_text_unknown">Sorry, this video cannot be played.</string>
+    <string name="VideoView_error_title">Cannot play video</string>
+    <string name="video_group_info">"%1$s Video Files %2$s"</string>
+    <string name="allVideos">"All Videos"</string>
+    <string name="video_error_auto_next">"(%1$d) Next"</string>
+
+</resources>
